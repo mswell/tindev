@@ -6,14 +6,16 @@ An app like tinder for devs :)
 
 Developed with Node Js, React and React Native
 
+<p align="center">
+	<img src="./assets/web_home_ver.png" alt="Tindev style="max-width:100%;">
+</p>
+
 ## Usage
 
 First is necessary to generate one .env with MongoDB URI, in the case I use [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) (See [.env_example](./.env_example))
 
 
-<p align="center">
-	<img src="./assets/web_home_ver.png" alt="Tindev style="max-width:100%;">
-</p>
+
 
 <h6 align="center">
 	<a href="https://raw.githubusercontent.com/mswell/dotfiles/master/LICENSE">MIT</a>
